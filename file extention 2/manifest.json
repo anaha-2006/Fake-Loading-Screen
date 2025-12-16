@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Fake Loading Screen",
+  "version": "1.0",
+  "action": {
+    "default_title": "Fake Loader"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
